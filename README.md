@@ -16,7 +16,7 @@ Durante aproximadamente **4 semanas intensivas**, os candidatos são desafiados 
 
 ## 💬 Meu depoimento
 
-> *[Espaço reservado para seu depoimento sobre a experiência na Piscina]*
+> *Se você está aqui só pelos códigos, já lhe adianto que não são os melhores, são todos meros rascunhos. Os meus reais estão na mão da moulinette, todas estas listas estão incompletas ou fora de norma. Agora, se por acaso quer saber como é a piscina, saiba, a 42 é para todos, mas nem todos são para a 42. ;) Buenas Sortes!*
 
 ---
 
@@ -68,10 +68,10 @@ Os projetos estão organizados por módulo, seguindo a progressão da Piscina:
 
 ## ⚠️ Aviso
 
-Este repositório tem fins **educacionais e de portfólio**. Se você também está na Piscina, use os projetos aqui como referência — mas lembre-se: o aprendizado vem de tentar por conta própria primeiro. 💪
+Este repositório tem fins **educacionais e de portfólio**. Se você também está na Piscina, use os projetos aqui como referência — mas lembre-se: o aprendizado vem de tentar por conta própria primeiro.💪
 
 ---
 
 <p align="center">
-  Feito com 💀 e muita xícara de café durante a Piscina da 42
+  Feito com 💀 e muito ódio de café durante a Piscina da 42!
 </p>
