@@ -11,12 +11,13 @@ A Piscina (do francês *La Piscine*) é o processo seletivo da [Escola 42](https
 
 Durante aproximadamente **4 semanas intensivas**, os candidatos são desafiados a resolver projetos do zero, aprender a aprender, e colaborar com outros participantes — tudo isso sob pressão de tempo e sem aula formal. É uma experiência que vai além do código: é sobre resiliência, autonomia e resolução de problemas.
 
-(descrição formal ok?)
+(descrição acima é formal ok?)
+
 ---
 
 ## 💬 Meu depoimento
 
-> *Se você está aqui só pelos códigos, já lhe adianto que não são os melhores, são todos meros rascunhos. Os meus reais estão na mão da moulinette, todas estas listas estão incompletas ou fora de norma. Agora, se por acaso quer saber como é a piscina, saiba, a 42 é para todos, mas nem todos são para a 42. ;) Buenas Sortes!*
+> _Se você está aqui só pelos códigos, já lhe adianto que não são os melhores, são todos meros rascunhos. Os meus reais estão na mão da moulinette, todas estas listas estão incompletas ou fora de norma. Agora, se por acaso quer saber como é a piscina, aqui vai um breve [depoimento](./mydepo.md)._
 
 ---
 
@@ -70,7 +71,7 @@ Os projetos estão organizados por módulo, seguindo a progressão da Piscina:
 
 Este repositório tem fins **educacionais e de portfólio**. Se você também está na Piscina, use os projetos aqui como referência — mas lembre-se: o aprendizado vem de tentar por conta própria primeiro.💪
 
-> *Afinal, na prova queridxs, será vcs, o **man** e o **terminal**. Não terá **IA**, nem **autocompleate**, nem **Google**, nem **DIAXO** nenhum. Nem sequer um **ping 8.8.8.8** ou um simples **Google**. Não tem escapatória... ou você faz, ou outro alguém o fará 💀*
+> *Afinal, na prova queridxs, será vcs, o **man** e o **terminal**. Não terá **IA**, nem **autocompleate**, nem **Google**, nem **DIAXO** nenhum. Nem sequer um **ping 8.8.8.8** ou um simples **Google**. Não tem escapatória... ou você faz, ou outro alguém o fará* 
 
 ---
 
