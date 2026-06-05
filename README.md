@@ -42,8 +42,8 @@ Os projetos estão organizados por módulo, seguindo a progressão da Piscina:
 │
 ├── 03_rush/              # Projetos em grupo realizados nos finais de semana
 │   ├── rush00/
-│   ├── ...
-│   └── rush03/
+│   ├── rush01/
+│   └── rush02/
 │
 └── 04_bsq/               # Projeto final: BSQ (Best Square)
 ```
@@ -76,5 +76,5 @@ Este repositório tem fins **educacionais e de portfólio**. Se você também es
 ---
 
 <p align="center">
-  Feito com muito amor e ódio...  💀 e muito café durante a Piscina da 42!
+  Feito com muito amor e ódio durante a Piscina da 42! 💀 ahh.. e muito café também.
 </p>
