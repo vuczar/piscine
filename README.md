@@ -71,7 +71,7 @@ Os projetos estão organizados por módulo, seguindo a progressão da Piscina:
 
 Este repositório tem fins **educacionais e de portfólio**. Se você também está na Piscina, use os projetos aqui como referência — mas lembre-se: o aprendizado vem de tentar por conta própria primeiro.💪
 
-> *Afinal, na prova queridxs, será vcs, o **man** e o **terminal**. Não terá **IA**, nem **autocompleate**, nem **Google**, nem **DIAXO** nenhum. Nem sequer um **ping 8.8.8.8** ou um simples **Google**. Não tem escapatória... ou você faz, ou outro alguém o fará* 
+> *Afinal, na prova queridxs, será vcs, o **man** e o **terminal**. Não terá **IA**, nem **autocomplete**, nem **Google**, nem **DIAXO** nenhum. Nem sequer um **ping 8.8.8.8** ou um simples **Google**. Não tem escapatória... ou você faz, ou outro alguém o fará* 
 
 ---
 
